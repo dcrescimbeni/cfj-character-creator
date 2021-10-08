@@ -6,3 +6,10 @@
   text-align: center;
 }
 
+a:link {
+  color: inherit;
+}
+
+a:visited {
+  color: inherit;
+}
