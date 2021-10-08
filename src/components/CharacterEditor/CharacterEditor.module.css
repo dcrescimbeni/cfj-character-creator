@@ -25,6 +25,5 @@
 }
 
 .controlColumn {
-  overflow: auto;
-  white-space: nowrap;
+  max-width: 50%;
 }
